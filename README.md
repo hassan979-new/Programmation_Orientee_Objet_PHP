@@ -91,7 +91,7 @@ Méthodes :
 
 - delete() → suppression.
 ## 🖥️ Example Execution
-
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/396b64c8-72d3-42bd-b56e-69e2d9d44112" />
 
 ## 💡 Concepts Practiced
 
